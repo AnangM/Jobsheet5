@@ -1,0 +1,3 @@
+public enum Segitiga{
+    SAMAKAKI,SAMASISI,SEMBARANG,SIKUSIKU;
+}
